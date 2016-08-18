@@ -1,0 +1,9 @@
+{
+  "globalDependencies": {
+    "react": "registry:dt/react",
+    "react-dom": "registry:dt/react-dom"
+  },
+  "dependencies": {
+    "lodash": "registry:npm/lodash#4.0.0+20160723033700"
+  }
+}
